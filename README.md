@@ -1222,7 +1222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **qullDev**
 
-- GitHub: [@qullDev](https://github.com/qullDev)
+- GitHub: [@qulDev](https://github.com/qulDev)
 
 ---
 
