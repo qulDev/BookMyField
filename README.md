@@ -37,9 +37,9 @@
 
 **Tech Stack:** Go, Gin Framework, PostgreSQL/SQLite, GORM, Stripe API, JWT, Redis, Swagger
 
-**Repo:** https://github.com/qullDev/BookMyField  
+**Repo:** https://github.com/qulDev/BookMyField  
 **Swagger:** http://localhost:8080/swagger/index.html  
-**Postman Collection:** https://github.com/qullDev/BookMyField/blob/main/postman_collection.json
+**Postman Collection:** https://github.com/qulDev/BookMyField/blob/main/postman_collection.json
 
 [![Go Version](https://img.shields.io/badge/Go-1.18+-blue.svg)](https://golang.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
